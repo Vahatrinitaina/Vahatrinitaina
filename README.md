@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vahatrinitaina
-- 👀 I’m interested in Front-end devlopment
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Front-end/Back-end development
+- 🌱 I’m currently learning ReactJS and NodeJS
 
 
 
